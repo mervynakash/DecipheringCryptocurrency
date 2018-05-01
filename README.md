@@ -10,7 +10,7 @@ This year's Academia Datathon was held between 27th - 30th of April. And univers
 
 # Occam's Data Ninjas
 To participate in this event we could either go solo, or form our own team or let the event organisers make a random match with other students. 
-My team consisted of 5 members namely: Ravi, Sowmya, Tanuj, Vijay and me. Our team name was Occam's Data Ninja.
+My team consisted of 5 members namely: @ravindrareddytamma, Sowmya, @noir976, @vijaybabyjoseph and me. Our team name was Occam's Data Ninja.
 
 # Data Understanding 
 The data was provided in the format of .csv files. The data contains the information regarding the 687 cryptocurrencies, whose individual parameters such as opening value, closing value, low, high, volume are provided as individual files. There are 2 Consolidated files that have the summary information regarding the price of each bitcoin captured for every 5 minutes interval from 17th Jan 2018 to 23rd Mar 2018. The ID’s of each crypto-currenciy and the names of each crypto-currency are provided in another consolidated file.
