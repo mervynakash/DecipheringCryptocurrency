@@ -1,0 +1,2 @@
+# DecipheringCryptocurrency
+The case is financial time-series prediction with cryptocurrencies and it integrates knowledge from various sources - Crypto Currencies, Quantitative Finance, and Machine learning. The data consists of time-series of various cryptocurrencies with open, high, low, close prices and volumes from different crypto exchanges. The goal is to build a successful investing/trading model on the cryptocurrency markets.
